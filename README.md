@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rajsu Pratik</h1>
 <h3 align="center">Passionate Cloud Computing Enthusiast</h3>
 
-<img align="right' alt="Coding" width="400"src="[https://github.com/rudrabarad/Gifs](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)"
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsupratik&label=Profile%20views&color=0e75b6&style=flat" alt="rajsupratik" /> </p>
 
