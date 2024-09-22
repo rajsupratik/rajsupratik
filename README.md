@@ -1,8 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rajsu Pratik</h1>
 <h3 align="center">Passionate Cloud Computing Enthusiast</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY5OTIyMDgsIm5iZiI6MTcyNjk5MTkwOCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDA3NTgyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyYTYyMWQzN2M1NDE4OTk3ODJmODg4NzBkMzZiMzdkZjlkZDUwZWRlN2VlMTJjODJiYmJiNDMwZmZhM2E4MjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3xWz1pJwLzZMREYE0jGmscv5tXYy1P-5Xh1pkNEmlU4">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsupratik&label=Profile%20views&color=0e75b6&style=flat" alt="rajsupratik" /> </p>
