@@ -45,17 +45,17 @@
 
   <!-- Top Languages Card -->
   <div style="flex: 1 1 100%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsupratik&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="rajsupratik" style="width: 80%; max-width: 800px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsupratik&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="rajsupratik" style="width: 150%; max-width: 1200px; height: auto;">
   </div>
 
   <!-- GitHub Stats Card -->
   <div style="flex: 1 1 100%; text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajsupratik&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="rajsupratik" style="width: 80%; max-width: 800px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=rajsupratik&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="rajsupratik" style="width: 150%; max-width: 1200px; height: auto;">
   </div>
 
   <!-- GitHub Streak Stats Card -->
   <div style="flex: 1 1 100%; text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsupratik&theme=dark&background=0D1117&ring=FFFFFF&fire=FF4500&currStreakLabel=FFFFFF" alt="rajsupratik" style="width: 80%; max-width: 800px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsupratik&theme=dark&background=0D1117&ring=FFFFFF&fire=FF4500&currStreakLabel=FFFFFF" alt="rajsupratik" style="width: 150%; max-width: 1200px; height: auto">
   </div>
 
 </div>
