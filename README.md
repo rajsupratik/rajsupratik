@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **rajsupratik37@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EahX2PM_zO_5Xwx4RiT6aABYF_ZPW2Af/view?usp=sharing](https://drive.google.com/file/d/1EahX2PM_zO_5Xwx4RiT6aABYF_ZPW2Af/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EahX2PM_zO_5Xwx4RiT6aABYF_ZPW2Af/view?usp=sharing](https://drive.google.com/file/d/1EahX2PM_zO_5Xwx4RiT6aABYF_ZPW2Af/view?usp=sharing">Resume Link</a>
 
 - ⚡ Fun fact **raise ValueError("Oops! Looks like the universe glitched. Try again!")**
 
