@@ -60,7 +60,7 @@
 
 </div>
 
-![snake gif](https://github.com/rajsupratik/rajsupratik/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
