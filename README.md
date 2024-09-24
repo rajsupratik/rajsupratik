@@ -3,7 +3,7 @@
     </h1>
 <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=rajsupratik&color=dc143c"/></a>
-  <a href="https://pooranjoyb.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://github.com/rajsupratik?tab=repositories"><img src="https://img.shields.io/github/stars/rajsupratik?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
 </p>
 <p align='center'>
