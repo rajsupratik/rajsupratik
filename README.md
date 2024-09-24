@@ -67,7 +67,7 @@ Explore my thoughts at 𝕏 [(Twitter)](https://twitter.com/rajsupratik)
 </p>
 
 <br />
-<a href="https://pooranjoyb.tech">
+<a href="">
   <table align="left">
       <tr>
           <td>
