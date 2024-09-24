@@ -90,7 +90,7 @@ Explore my thoughts at 𝕏 [(Twitter)](https://twitter.com/rajsupratik)
 
 <div align="center">
 
-[![An image of @pooranjoyb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pooranjoyb)](https://holopin.io/@rajsupratik)
+[![An image of @rajsupratik's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajsupratik)](https://holopin.io/@rajsupratik)
   
  </div>
 
