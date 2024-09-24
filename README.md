@@ -1,66 +1,97 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rishavchanda.io)
-<h1 align="center">Hi Rajsu Pratik here: Saving the world, one bug at a time.</h1>
-<h3 align="center">Feel free to fork my projects—just don’t blame me when they break.</h3>
-
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY5OTIyMDgsIm5iZiI6MTcyNjk5MTkwOCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIyVDA3NTgyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgyYTYyMWQzN2M1NDE4OTk3ODJmODg4NzBkMzZiMzdkZjlkZDUwZWRlN2VlMTJjODJiYmJiNDMwZmZhM2E4MjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3xWz1pJwLzZMREYE0jGmscv5tXYy1P-5Xh1pkNEmlU4">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsupratik&label=Profile%20views&color=0e75b6&style=flat" alt="rajsupratik" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/rajsupratik" target="blank"><img src="https://img.shields.io/twitter/follow/rajsupratik?logo=twitter&style=for-the-badge" alt="rajsupratik" /></a> </p>
-
-- 🔭 I’m currently working on **Football Analysis System**
-
-- 🌱 I’m currently learning **Frameworks, APIs, Docker etc.**
-
-- 👯 I’m looking to collaborate on [Fit-Flow Gym Web Application](https://github.com/rajsupratik/FIt-FlowGYM)
-
-- 🤝 I’m looking for help with [Network Traffic Analyzer](https://github.com/rajsupratik/NetworkTrafficAnalyzer)
-
-- 👨‍💻 All of my projects are available at [github.com/rajsupratik](github.com/rajsupratik)
-
-- 💬 Ask me about **python, JavaScript, react**
-
-- 📫 How to reach me **rajsupratik37@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1EahX2PM_zO_5Xwx4RiT6aABYF_ZPW2Af/view?usp=sharing](https://drive.google.com/file/d/1EahX2PM_zO_5Xwx4RiT6aABYF_ZPW2Af/view?usp=sharing">Resume Link</a>
-
-- ⚡ Fun fact **raise ValueError("Oops! Looks like the universe glitched. Try again!")**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rajsupratik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajsupratik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajsupratik37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajsupratik37" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajsupratik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajsupratik" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/WSpeSsEr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/WSpeSsEr" height="30" width="40" /></a>
+<h1 align='center'>
+  &lt; Namaste, World! /&gt;
+    </h1>
+<p align='center'>
+    <img src="https://komarev.com/ghpvc/?username=rajsupratik&color=dc143c"/></a>
+  <a href="https://pooranjoyb.tech"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139"/></a>
+  <a href="https://github.com/rajsupratik?tab=repositories"><img src="https://img.shields.io/github/stars/rajsupratik?style=flat&logo=github&label=Total%20Stars&color=teal"/></a>
+</p>
+<p align='center'>
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+Glad to see you here! I'm **_Rajsu Pratik_**, an **Aspiring Software Engineer** with a strong passion for **Web, App** and **Open-Source**. I balance code with **Music** 🎵  and find peace in a sip of **tea** 🍵 and **painting** 🎨. From the flatlands of Dhanbad to the mountain highs of Dehradun, I swapped tea for treks and learned that altitude isn't just a number!
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
+Currently, I'm tinkering with ASM and understanding the working of Linux Kernels. My notable contributions include building [Tax-Liablity-System](https://github.com/rajsupratik/real-timeTaxLiabilityCalculationSystem) which was submitted to Google Solutions Challenge 2024. I've also had the privilege of mentoring in [JGEC Winter of Code 2024](https://www.jwoc.tech) as well as [Delta Winter of Code 2023](https://dwoc.io).
 
-  <!-- Top Languages Card -->
-  <div style="flex: 1 1 100%; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajsupratik&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="rajsupratik" style="width: 150%; max-width: 1200px; height: auto;">
-  </div>
+_Checkout my recent Project: [Etherum Wallet](https://github.com/rajsupratik/EthereumWallet)_
 
-  <!-- GitHub Stats Card -->
-  <div style="flex: 1 1 100%; text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajsupratik&show_icons=true&locale=en&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF" alt="rajsupratik" style="width: 150%; max-width: 1200px; height: auto;">
-  </div>
+### Projects
 
-  <!-- GitHub Streak Stats Card -->
-  <div style="flex: 1 1 100%; text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajsupratik&theme=dark&background=0D1117&ring=FFFFFF&fire=FF4500&currStreakLabel=FFFFFF" alt="rajsupratik" style="width: 150%; max-width: 1200px; height: auto">
-  </div>
+Apart from the pinned repositories, I have contributed to:
+- ⚡ [Scrape-Up](https://github.com/Clueless-Community/scrape-up) *(A web-scraping-based [python package](https://pypi.org/project/scrape-up/) that enables you to scrape data from various platforms)*
+- 🅿️ [helmet Detection System](https://github.com/rajsupratik/HelmetDetectionSystem) *(part of 6th Semester Major-Project)*
 
-</div>
+### Tech Stack
+
+I mostly work with **Javascript**, specifically **React** & **NextJS** to power my Web Apps. Recently, I have been tinkering with **_Python_** and **_.NET Core_**.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase" />&nbsp;
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" />
 
 
 
+### Let's connect!
+
+Explore my thoughts at 𝕏 [(Twitter)](https://twitter.com/rajsupratik)
 
 
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=rajsupratik&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=rajsupratik&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=rajsupratik&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://buymeacoffee.com/rajsupratik"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
+
+<br />
+<a href="https://pooranjoyb.tech">
+  <table align="left">
+      <tr>
+          <td>
+            😊&nbsp;&nbsp;Learn more about me!
+          </td>
+      </tr>
+  </table>
+</a>
+<a href="https://medium.com/@pooranjoy">
+  <table align="right">
+      <tr>
+          <td>
+            🌐 &nbsp;&nbsp;Explore my blog!
+          </td>
+      </tr>
+  </table>
+</a>
+
+---
+
+<div align="center">
+
+[![An image of @pooranjoyb's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pooranjoyb)](https://holopin.io/@rajsupratik)
+  
+ </div>
+
+ 
