@@ -1,5 +1,5 @@
 <h1 align='center'>
-  &lt;🤟 Namaste, World! /&gt;
+  &lt;🙏 Namaste, World! /&gt;
     </h1>
 <p align='center'>
     <img src="https://komarev.com/ghpvc/?username=rajsupratik&color=dc143c"/></a>
