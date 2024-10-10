@@ -80,7 +80,7 @@ Explore my thoughts at 𝕏 [(Twitter)](https://twitter.com/rajsupratik)
   <table align="right">
       <tr>
           <td>
-            🌐 &nbsp;&nbsp;Explore my blog!
+            🌐 &nbsp;&nbsp;Explore my blog!!
           </td>
       </tr>
   </table>
